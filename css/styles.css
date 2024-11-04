@@ -225,8 +225,20 @@ footer ul li a{
     margin: 30px;
 }
 
-footer ul li a:hover{
-    color: rgb(39, 231, 231);
+.footer-spotify:hover{
+    color: rgb(26, 170, 26);
+    transition: 1.2s;
+    text-decoration: underline;
+}
+
+.footer-instagram:hover{
+    color:rgb(224, 62, 197);
+    transition: 1.2s;
+    text-decoration: underline;
+}
+
+.footer-youtube:hover{
+    color: red;
     transition: 1.2s;
     text-decoration: underline;
 }
